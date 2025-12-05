@@ -1,5 +1,7 @@
 # NutBit 机场注册入口说明与使用指南
 
+<img src="https://raw.githubusercontent.com/jichangbaike/nutbit/refs/heads/main/a4e6.png">
+
 NutBit 是一家成立于 **2022 年** 的小众但稳定的跨区域网络加速服务商，主打 IEPL 跨境专线、简洁透明的套餐体系，适用于跨境办公、流媒体观看、AI 工具访问等多种场景。
 
 本项目整理 NutBit 的基础信息、套餐价格、优惠资讯与常见问题，以便快速了解与使用。
@@ -74,6 +76,10 @@ NutBit 支持国内主流支付方式：
 
 无需额外支付渠道即可完成订阅。
 
+---
+## 测速图
+
+<img src="https://raw.githubusercontent.com/jichangbaike/nutbit/refs/heads/main/4306.png">
 ---
 
 ## FAQ
