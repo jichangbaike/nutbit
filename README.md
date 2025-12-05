@@ -2,15 +2,15 @@
 
 <img src="https://raw.githubusercontent.com/jichangbaike/nutbit/refs/heads/main/a4e6.png">
 
-NutBit 是一家成立于 **2022 年** 的小众但稳定的跨区域网络加速服务商，主打 IEPL 跨境专线、简洁透明的套餐体系，适用于跨境办公、流媒体观看、AI 工具访问等多种场景。
+**NutBit** 是一家成立于2022年的小众但稳定的跨区域网络加速服务商，主打 IEPL 跨境专线、简洁透明的套餐体系，适用于跨境办公、流媒体观看、AI 工具访问等多种场景。
 
 本项目整理 NutBit 的基础信息、套餐价格、优惠资讯与常见问题，以便快速了解与使用。
 
---
+---
 
-## 官网入口
+## NutBit 官网入口
 
-NutBit 官方入口（最新地址）：  
+官方入口（最新地址）：  
 **https://finalto.xyz/tXP2eu**
 
 此链接为官方注册通道，可用于开通账号与查看套餐详情。
@@ -30,7 +30,7 @@ NutBit 套餐设计简洁，全部提供 IEPL 跨境专线支持：
 
 ---
 
-## 双十二优惠活动
+## 优惠活动
 
 NutBit 当前双十二限时优惠（截止至 **12 月 15 日**）：
 
@@ -69,8 +69,8 @@ NutBit 支持国内主流支付方式：
 ## 测速图
 
 <img src="https://raw.githubusercontent.com/jichangbaike/nutbit/refs/heads/main/4306.png">
----
 
+---
 ## FAQ
 
 ### NutBit 是否适合观看流媒体？
