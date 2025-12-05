@@ -1,4 +1,4 @@
-# NutBit 机场注册入口说明与使用指南
+# NutBit 机场注册入口说明、测评体验和使用指南
 
 <img src="https://raw.githubusercontent.com/jichangbaike/nutbit/refs/heads/main/a4e6.png">
 
